@@ -1,0 +1,14 @@
+{
+  "name": "web-server",
+  "version": "1.0.0",
+  "description": "Belajar web server nodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kanglerian",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
